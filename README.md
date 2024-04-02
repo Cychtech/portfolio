@@ -1,7 +1,7 @@
 # Code Portfolio
 <html>
   <body>
-    <p>Hello! I'm Chiwa N, and I'm a computer enthusiast based in Nairobi, Kenya. 
+    <p>Hello! I'm Wachira Nyaga(aka Chiwa N, and I'm a computer enthusiast based in Nairobi, Kenya. 
         Ever since I was young, I've been fascinated by the potential of technology to create, solve problems, and connect people. 
         I'm a lifelong learner, constantly eager to expand my knowledge and build exciting things. 
         This portfolio is a testament to that journey!</p>
